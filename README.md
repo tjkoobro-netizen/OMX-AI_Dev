@@ -1,5 +1,8 @@
 # OMX-AI_Dev
 
+> ⚠️ **이 저장소는 더 이상 갱신하지 않습니다 (2026-10-27, v2.1.0 기준 보관).**
+> OMX 제어판은 **[tjkoobro-netizen/omx-control-panel](https://github.com/tjkoobro-netizen/omx-control-panel)** 으로 옮겼습니다. 설치와 업데이트는 새 저장소에서 하세요.
+
 OMX-AI 로봇팔을 활용한 프로젝트 모음입니다.
 
 ## 프로젝트
